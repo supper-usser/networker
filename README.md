@@ -6,7 +6,8 @@
 
 Options
 
--h → Apply Home configuration (DHCP on eth0). \br
+-h → Apply Home configuration (DHCP on eth0).
+
 -w → Apply Work configuration (Static IP on eth0).
 
 ⚠️ When selecting the -w option, you may need to run the script twice for changes to fully apply.
